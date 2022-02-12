@@ -1,0 +1,9 @@
+.ui.Msg{
+    margin-top:40px;
+    margin-left:300px;
+    border-color: rgb(185,218,40);
+    padding: 25px 50px 75px 100px;
+}
+.ui.image{
+    float:right;
+}
